@@ -1,0 +1,158 @@
+Body{
+
+	text-align: center;
+	margin-top: 200px;
+	font-family: georgia;
+	color:black;
+	font-size: 20px;
+	padding: 40px;
+	background-image: url(bb.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#heading{
+
+    border-radius: 7px;
+    font-family: 'Staatliches', cursive;
+	font-size: 50px;
+	margin-bottom: 50px;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    box-shadow: 6px 6px black;
+}
+
+.form{
+
+	font-family: Arial;
+}
+
+.box,.box1,.box2,.box3{
+
+    border-radius: 7px;
+	box-shadow: 4px 4px black;
+	box-sizing: 100px;
+	font-size: 30px;
+	margin: 10px;
+	font-family: Arial;
+
+}
+
+
+.box1{
+
+	margin-left: 16px;
+
+}
+
+.box2{
+
+margin-left: 13px;
+
+}
+
+.box3{
+
+	margin-left: 63px;
+}
+
+#gender{
+
+	margin-right: 367px;
+	margin-top: 50px;
+}
+
+.box{
+
+	margin-left: 15px;
+}
+
+.female{
+
+	margin-left: 27px;
+}
+
+.other{
+
+	margin-left: 11px;
+}
+
+.male{
+
+	margin-left:110px;
+}
+
+.male ,.female, .other{
+	
+}
+
+#dropdown{
+
+	
+}
+
+.time:hover{
+
+	background-color: black;
+	color: white;
+}
+
+/*.time{
+
+	background-color: black;
+}
+*/
+
+.submit{
+
+  border-radius: 10px;
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  margin-left: 110px;
+  font-family: Arial;
+
+}
+
+.submit:hover{
+
+	background-color: black;
+	color: white;]
+}
+
+.enroll-btn{
+
+	margin-top: 50px;
+}
+
+
+.web{
+
+	margin-right:60px ;
+	margin-top: 20px;
+}
+
+.android{
+
+	margin-right:32px ;
+}
+
+.ios{
+
+	margin-right:66px ;
+}
+
+.database{
+
+	margin-right:14px ;
+}
+
+p{
+
+	font-size: 15px;
+	text-align: center;
+	margin-top: 80px;
+	width: 1600px;
+}
+
+
